@@ -1,8 +1,7 @@
 # Eat At Joys 🍽️🎉
 
 Welcome to Eat At Joys! A delightful application to manage and explore delicious food items. This project is perfect for food enthusiasts and restaurant managers alike.
-
-[Preview](
+[Preview](https://github.com/EchoSingh/Eat-At-Joys/blob/main/Preview.jpg)
 
 ## Features 🌟
 
