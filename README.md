@@ -2,6 +2,8 @@
 
 Welcome to Eat At Joys! A delightful application to manage and explore delicious food items. This project is perfect for food enthusiasts and restaurant managers alike.
 
+[Preview](
+
 ## Features 🌟
 
 - 📋 **Menu Management**: Add, update, and delete food items.
@@ -17,8 +19,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites 🧰
 
 - Python 3.6+
-- MySQL Server
-- MySQL Connector for Python
+- MySQL 
+- PyQt5
 
 ### Installation 🛠️
 
