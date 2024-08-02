@@ -8,7 +8,6 @@ Welcome to Eat At Joys! A delightful application to manage and explore delicious
 - 📋 **Menu Management**: Add, update, and delete food items.
 - 🛒 **Order System**: Efficiently manage customer orders.
 - 📊 **Analytics**: Get insights on popular dishes and sales trends.
-- 🔍 **Search Functionality**: Easily find dishes and orders.
 - 🛠️ **Customizable Settings**: Tailor the app to fit your restaurant's needs.
 
 ## Getting Started 🚀
